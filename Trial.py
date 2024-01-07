@@ -81,5 +81,5 @@ predict_button = st.button("Predict")
 # Check if the button is clicked
 if predict_button:
     # Add your prediction logic here
-    st.write("Test.")
+    st.write("Testing this Prototype.")
     
